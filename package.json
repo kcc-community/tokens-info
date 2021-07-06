@@ -1,0 +1,13 @@
+{
+  "name": "tokens-info",
+  "version": "1.0.0",
+  "description": "kcc tokens information",
+  "scripts": {
+  },
+  "author": "*",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
