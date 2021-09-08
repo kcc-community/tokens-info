@@ -2,12 +2,7 @@
   "name": "tokens-info",
   "version": "1.0.0",
   "description": "kcc tokens information",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "*",
-  "license": "MIT",
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "license": "MIT"
 }
